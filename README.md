@@ -7,6 +7,7 @@ This repository is a fork of [this work](https://github.com/Prabhu204/Very-Deep-
 implementation of [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf) in Pytorch by [Prabhu Appalapuri](https://github.com/Prabhu204).
 
 We made the models run on the CIFAR100 dataset, and modified them to support our different scheduling strategies.
+
 #FINAL PDF:
 [PDF](https://www.dropbox.com/scl/fi/eyuems72xicz24rajo4ug/DL_Project.pdf?rlkey=a27ocn010qwvgal2uifku4f7h&st=nedqw65p&dl=0)
 
